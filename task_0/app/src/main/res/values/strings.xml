@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="re_1">re 1</string>
+    <string name="rs_5">rs 5</string>
+    <string name="rs_2">rs 2</string>
+    <string name="rs_10">rs 10</string>
+    <string name="textview">TextView</string>
+</resources>
